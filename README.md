@@ -15,7 +15,7 @@ To run this project locally, you need to have Node.js and MongoDB installed on y
 
 1. Clone this repository to your local machine using the following command:
 
-git clone https://github.com/your-username/freelancing-project.git
+git clone  (https://github.com/Kanishkweb/FreeLancing-Project.git)
 
 
 2. Navigate to the project directory:
